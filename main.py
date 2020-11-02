@@ -4,7 +4,7 @@ from __future__ import print_function
 
 # Imports
 import os
-os.environ['CUDA_VISIBLE_DEVICES'] = ''
+os.environ['CUDA_VISIBLE_DEVICES'] = '0'
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3' 
 import sys
 import pdb
