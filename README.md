@@ -27,7 +27,7 @@ For questions and comments, feel free to contact [Arindam Chowdhury](mailto:arin
 
 ## Citation
 ```
-[1] 
+[1] Chowdhury A, Verma G, Rao C, Swami A, Segarra S. Unfolding WMMSE using Graph Neural Networks for Efficient Power Allocation. arXiv preprint arXiv:2009.10812. 2020 Sep 22.
 ```
 
 BibTeX format:
