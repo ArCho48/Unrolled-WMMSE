@@ -2,7 +2,7 @@
 Tensorflow implementation of Unfolding WMMSE using Graph Neural Networks for Efficient Power Allocation (https://arxiv.org/abs/2009.10812)
 
 ## Overview
-This library contains a Tensorflow implementation of Unfolding WMMSE using Graph Neural Networks for Efficient Power Allocation as presented in [[1]](#citation)(https://arxiv.org/abs/).
+This library contains a Tensorflow implementation of Unfolding WMMSE using Graph Neural Networks for Efficient Power Allocation as presented in [[1]](#citation)(https://arxiv.org/abs/2009.10812).
 ## Dependencies
 
 * **python>=3.6**
